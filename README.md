@@ -11,5 +11,6 @@
 - [x] Lecture 01 Course Overview
 - [x] Lecture 02 Bits, Bytes, and Integer
 - [x] Lecture 03 Bits, Bytes, and Integers cont
+- [x] Lecture 04 Floating Point
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
