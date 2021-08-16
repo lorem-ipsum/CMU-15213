@@ -8,4 +8,6 @@
 
 ### [Videos](https://www.youtube.com/watch?v=ScMxnXq6fbI&list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x&index=1)
 
+- [x] Lecture 01 Course Overview
+
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
