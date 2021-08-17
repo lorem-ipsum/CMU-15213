@@ -13,5 +13,7 @@
 - [x] Lecture 03 Bits, Bytes, and Integers cont
 - [x] Lecture 04 Floating Point
 - [x] Lecture 05 Machine Level Programming I Basics
+- [x] Lecture 06 Machine Level Programming II Control
+- [x] Lecture 07 Machine Level Programming III Proc
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
