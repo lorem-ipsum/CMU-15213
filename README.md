@@ -17,3 +17,5 @@
 - [x] Lecture 07 Machine Level Programming III Proc
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+
+- [x] Data Lab
