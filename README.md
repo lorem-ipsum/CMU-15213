@@ -19,7 +19,7 @@
 - [x] Lecture 09 Machine Level Programming V Advanced
 - [x] Lecture 10 Program Optimization
 - [x] Lecture 11 The Memory Hierarchy
-- [ ] Lecture 12 Cache Memories
+- [x] Lecture 12 Cache Memories
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
 
