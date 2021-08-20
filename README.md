@@ -15,6 +15,11 @@
 - [x] Lecture 05 Machine Level Programming I Basics
 - [x] Lecture 06 Machine Level Programming II Control
 - [x] Lecture 07 Machine Level Programming III Proc
+- [x] Lecture 08 Machine Level Programming IV Data
+- [x] Lecture 09 Machine Level Programming V Advanced
+- [x] Lecture 10 Program Optimization
+- [x] Lecture 11 The Memory Hierarchy
+- [ ] Lecture 12 Cache Memories
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
 
