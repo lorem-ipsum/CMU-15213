@@ -20,6 +20,8 @@
 - [x] Lecture 10 Program Optimization
 - [x] Lecture 11 The Memory Hierarchy
 - [x] Lecture 12 Cache Memories
+- [ ] Lecture 13 Linking
+- [x] Lecture 14 Exceptional Control Flow Exception
 
 ### [Labs](http://csapp.cs.cmu.edu/3e/labs.html)
 
